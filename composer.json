@@ -1,0 +1,17 @@
+{
+    "name": "kalamu/media-manager",
+    "description": "Javascript library for media managment on top of a RESTfull API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johan DESMYTER",
+            "email": "johan@etic.yt"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kalamu/media-manager.git"
+        }
+    ]
+}
